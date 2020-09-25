@@ -7,3 +7,4 @@ Um simples clone da página inicial do Instagram, feito no Bootcamp da Digital I
 
 ## Demonstração :eyes:
 
+![instagram_clone](https://user-images.githubusercontent.com/61249270/94272642-af633080-ff19-11ea-8e9a-61eb5e425798.gif)
